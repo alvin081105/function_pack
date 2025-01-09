@@ -32,7 +32,7 @@ def set_window_transparency(window_title, transparency):
 
 if __name__ == "__main__":
     window_title = "새 탭" # 여기에 크롬창에 완전한 제목 입력력
-    transparency = 200  # 0 = 완전 투명, 255 = 완전 불투명
+    transparency = 140  # 0 = 완전 투명, 255 = 완전 불투명
     
     # 투명도 설정
     set_window_transparency(window_title, transparency)
